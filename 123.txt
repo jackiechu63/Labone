@@ -1,0 +1,15 @@
+ssh-agent.exe
+
+CefSharp.BrowserSubprocess.exe
+
+Github.exe
+\
+
+git-http-push.exe
+git-http-fetch.exe
+git-http-backend.exe
+
+
+git-remote-https.exe
+git-remote-http.exe
+git-remote-ftps.exe
